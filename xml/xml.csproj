@@ -35,6 +35,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\130b54bb8e2a1e8967f7fdddb1d81a63.jpg" />
+    <Content Include="img\9caec99513d70cb38d0d8ea5e718179a.jpg" />
+    <Content Include="img\ee5e1d41b8949e418d16843011806db9.jpg" />
     <Content Include="Markt und Wettbewerb.xml" />
     <Content Include="Renés Blog.xml" />
     <Content Include="Telefónica Germany.xml" />
