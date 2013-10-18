@@ -39,6 +39,10 @@
     <Content Include="img\9caec99513d70cb38d0d8ea5e718179a.jpg" />
     <Content Include="img\ee5e1d41b8949e418d16843011806db9.jpg" />
     <Content Include="Markt und Wettbewerb.xml" />
+    <Content Include="pfeil\left-small-hover.png" />
+    <Content Include="pfeil\left-small.png" />
+    <Content Include="pfeil\right-small-hover.png" />
+    <Content Include="pfeil\right-small.png" />
     <Content Include="Renés Blog.xml" />
     <Content Include="Telefónica Germany.xml" />
   </ItemGroup>
